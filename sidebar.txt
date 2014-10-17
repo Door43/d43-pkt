@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pkt:home|Door43 (pkt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pkt|d43-pkt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pkt/archive/master.zip|d43-pkt.zip]]
+
+**Recent Changes**
+{{changes>ns = pkt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pkt|Ethnologue data]]
+
